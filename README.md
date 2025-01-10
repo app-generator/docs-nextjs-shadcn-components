@@ -7,7 +7,7 @@ In order to run this demo, follow the steps below:
 1 - Clone this repository to a directory of your choice:
 
 ```bash
-git clone
+git clone git@github.com:app-generator/docs-nextjs-shadcn-components.git
 ```
 
 2 - Install dependencies:
